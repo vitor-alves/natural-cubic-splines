@@ -1,3 +1,3 @@
 InterpolacaoSplineCubicaNatural
 
-Aproximacão de funcões por Splines Cúbicas para a disciplina de MS211 - Cálculo Numérico
+Aproximacão de funcões por Splines Cúbicas para a disciplina MS211 - Cálculo Numérico
